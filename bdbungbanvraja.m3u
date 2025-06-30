@@ -1,0 +1,98 @@
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10" group-title="News", Jamuna Television
+http://38.96.178.201/live/JamunaTV/index.m3u8
+
+#EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwULgTyxl7QPxbuZwFdzn7OJLcUZPBMdAwAYbOa8tCehX2ex77oCaOGA&s=10" group-title="News", Somoy TV
+
+#EXTINF:-3  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlw9lmJMElzn750jn0hJYlJ38FKVnl1Yn1MaBdcPIyMO1JwWlBYrKw2A&s=10" group-title="News", Independent Television
+http://38.96.178.201/live/Independent/index.m3u8
+
+#EXTINF:-4  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1gSKboIgklxxoVwDQ9NxRaNaxSwP5qpRWfcmKRUEDdsDyBCOlRWpg1BH&s=10" group-title="News", ATN News
+http://38.96.178.201/live/ATNNews/index.m3u8
+
+#EXTINF:-5  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1200px-Logo_of_Channel_24_%28Bangladesh%29.svg.png" group-title="News", Channel 24
+
+#EXTINF:-6  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XtqCbOPMe0T88G01efcWk2lPDPjUobeesyy5gE8D_6bRm0JKbP2ZJEY&s=10" group-title="News", Ekattor TV
+
+#EXTINF:-7  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzlONl21nkrYm8ShUYMiN_rrMJaJh8gV1-k2_S_HYSfaeHpshK8RFlENDU&s=10" group-title="News", News24
+
+#EXTINF:-8  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDPoXd3EEl-ffhQJYNTLfovtWhtG_rEpn0sMbVain2FQFW5ST7PRvXdGs&s=10" group-title="News", DBC News
+
+#EXTINF:-9  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvGUsZOUPcCVuPqy8ioMkRwQTRR_Qf1igpaQ57uXWorJuiioj5FBkAjBg&s=10" group-title="News", Ekhon TV
+http://38.96.178.201/live/EkhonTV/index.m3u8
+
+#EXTINF:-10  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvCrlb7xmKGKrsrDbJSJ8hGTlvEidzrp29PJz60DT7KjVt4QzG2Yzd7I&s=10" group-title="News", Nexus Television
+
+#EXTINF:-1  tvg-logo="https://pngtom.com/files/preview/960x960/31702992665jbnpnaxmv6hhe4vj1c2kxz9ufo4l46lfvxil0v8p6qmfcmoijvvsvexesdfuwhjifalwi4ffwrxwzezn8hxyosvuqs9csm48zqr4.png" group-title="Entertainment", ATN Bangla
+
+
+#EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ZfntgW_pn1lop8RBYX4glU6m6DSIQNyeruGHX9ZxWAQ5_EzK0KD7hOY&s=10" group-title="Entertainment", Channel i
+
+
+#EXTINF:-3  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EqyF03y2yDUaUBNwvC7iC3cUokAxx-ATVAKhl8QYNSSyeJRp74iwhCc&s=10" group-title="Entertainment", NTV
+
+
+#EXTINF:-4  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolXbGZ1z56edcDd0D5eXhaTlMzvvicKBmb4jVp-Da2S8HtmUNroJVVZY&s=10" group-title="Entertainment", RTV
+
+
+#EXTINF:-5  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgqI6ZEXalnjINN1HZUTAbGD07CT49TpXWA9DbyBbkm7tUVeSkYFd7JA&s=10" group-title="Entertainment", Ekushey Television (ETV)
+
+
+#EXTINF:-6  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU01ZhE1AnebwngwNxiW2pnb4hDZTTNauPb5b9D0sd9Yp--oi_cL0PiUFN&s=10" group-title="Entertainment", Banglavision
+
+
+#EXTINF:-7  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBmBz6vF97dd9WqmukfIcL_4uue_tDgmFfzX6sIehZYbmm7kiL8rTo8BA&s=10" group-title="Entertainment", Boishakhi TV
+
+
+#EXTINF:-8  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTay3a6uRAS5nAEbogHsnzyDX9bBpiJs1VbLmglCRrna1m9ph6BduPskUbb&s=10" group-title="Entertainment", Desh TV
+
+
+#EXTINF:-9  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZiBJpE1L7Ghu0lr24Z8vpwhSL_J8dwUTk-vV6ALvASraO_Bs1EtVblw&s=10" group-title="Entertainment", My TV
+
+
+#EXTINF:-10  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDo-IEP-9V2NMI4-bNuVNFuHWnoxasZnNb5cyplCGrs--LrT7SmgA3g&s=10" group-title="Entertainment", Mohona Television
+
+
+#EXTINF:-11  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuiNF3heLtTUE2fXaX8Tqh0-m9qQO5WnVrzvOpEX_aKB16mdu1kRsracw&s=10" group-title="Entertainment", Bijoy TV
+
+
+#EXTINF:-12  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-NeiuXwrF1ejDZmFWllQP5ulfOk1KkWUGPguottMJC0r-gUL7tQAgfE&s=10" group-title="Entertainment", Channel 9
+
+
+#EXTINF:-13  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxDeIjIyPDQOSZS8QJ5yrAisUm6zAA_uj99cHjtisR6CzVD0xkzMCu-c&s=10" group-title="Entertainment", Asian TV
+
+
+#EXTINF:-14  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc7_zyy196IhovanHOt_xBoTjElkUmoEWRtQlrFmaKSoZBeuzFlJ1fK2g&s=10" group-title="Entertainment", SA TV
+
+
+#EXTINF:-15  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNviiaSKpw94vK4Np8TzzM9gmLxMM7OulRX-Tcal0YhbNAUkO8tGb2-SU&s=10" group-title="Entertainment", Deepto TV
+
+
+#EXTINF:-16  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZRlPvTfuMvTFvY1iQ4CJbm7-i8CdGK2teFS6ZnCcqlYwQSaG7Q9ZSAs1&s=10" group-title="Entertainment", Bangla TV
+
+
+#EXTINF:-17  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ztTzrUwoQEb2Mcq5iOYf61cchkPvgdnZlgYqEKHRF0Cphsi9umA8weis&s=10" group-title="Entertainment", Nagorik TV
+
+
+#EXTINF:-18  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOya1iJ8P2SBOpKDd4O1eictJS8ORtRw9qlNLSsafrvrE0VQLP67pSipU&s=10" group-title="Entertainment", Ananda TV
+
+
+#EXTINF:-19  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_yA5LfDw5ugV6nk3oqMe79se-eMqkiYrqVZLgit42IZnil03nmgVzQQ&s=10" group-title="Entertainment", Global TV
+
+
+#EXTINF:-20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83es3p2toG6oo_JuCaUqeHOoZIRjoYVkMRcTPxZKwdUnyzGDfFzsoAHDM&s=10" group-title="Entertainment", Channel S
+
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinpdJJk-WWZgvJxdZYnJzv1YmTw_6Ai_gwn1viFCvkERWfdTmlar-DdqUY6_28P1pdtzBUnoJt_cwaO13aR52Vp2hB90uceQl7AADQWQLtfjUY5MTtV8xQErBQ3nIBqXDQIxvkj_Prdw6yI30-7fEMj1gJ3TYa2ndB5rCUrrXibcS1fX7Ddojx1ScOUNo/s1600/1000022776.png" group-title="Sports", T Sports
+http://38.96.178.201/live/TSports/index.m3u8
+
+
+#EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17nZHFF6RRi0spgrD5MyEW577mND1XNi7hR_ZRJ3-41sVTXEFJhDofezG&s=10" group-title="Sports", Gazi TV (GTV)
+http://38.96.178.201/live/GaziTV/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNgtSPd1tDEKCWFzOkkavM2zjEgJttKsu0J4y_DBzfa1fYvYPTFyWilmwS&s=10" group-title="Kids", Maasranga Television
+http://38.96.178.201/live/GaziTV/index.m3u8
+
+
+#EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWbm0mh0UEB3zMCP_5sHUTcWTf1tdXhAOGbZfenAZKCcGnLuhwF4gd-Uw&s=10" group-title="Kids", Duronto TV
+http://38.96.178.201/live/GaziTV/index.m3u8
+
+
