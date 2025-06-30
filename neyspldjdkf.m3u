@@ -1,0 +1,58 @@
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="International", CNN International
+
+
+#EXTINF:-2  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="International", BBC World News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+
+#EXTINF:-3  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnMMOTvQIUYbpNC6gU1iyRVolwiNt8tMGrgTMC7B1BDPqmUvVj-WiBSs&s=10" group-title="International", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+
+#EXTINF:-4  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61F8AcwAx3AhRe8xJhRVH1c1Vaa6o5p9YzJkBXHLOQHZoyL9E6dULzUaT&s=10" group-title="International", DW
+
+
+#EXTINF:-5  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV4E5y5F1uZkCUCj4mpOvlCqCAnLoEG37F4bKi2cU15mvzxRPrWNHO-s&s=10" group-title="International", France 24
+
+
+#EXTINF:-6  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="International", RT (Russia Today)
+
+
+
+#EXTINF:-7  tvg-logo="https://images.contentstack.io/v3/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="International", Sky News International
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc103ow4ej)/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020c13c3690d99ce5dbe3ea50725afb:c432e72a86293d935174b1144290bde7
+
+
+#EXTINF:-8  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28jqV9FkDD91fPXsGff39mtaGRfycYuBVcqMX4ivJjJXiyT7EGfy3sw&s=10" group-title="International", TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-9  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="International", NHK World-Japan
+
+
+#EXTINF:-10  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEQfX8fWcpZ2lyWTNZ_u-1F3qpLkItIxiGFQ2quwepf_n9wQJCBBkZzqI&s=10" group-title="International", Bloomberg Television
+
+
+#EXTINF:-11  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2DqOEQKW0vh57seSCWQPQ2_hFTeegjBNDbQ&s" group-title="International", CNBC
+
+
+#EXTINF:-12  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="International", Fox News
+
+
+#EXTINF:-13  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/2048px-LOGO_i24NEWS.png" group-title="International", i24NEWS
+
+
+#EXTINF:-14  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu9BK18XXTlHLdX9cwnCTiCZo6o8AoEBi1UG_Y7UECWojsdunp3lKTcTM&s=10" group-title="International", Voice of America
+
+
+#EXTINF:-15  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="International", Euronews
+
+
+#EXTINF:-16  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Press_TV_logo.svg" group-title="International", Press TV
+
+
+#EXTINF:-17  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2la1y_WQO2KMQzMHGVW3xRNeyn_gF7yhIVWtAdLACQ6wWw_IeawOP9ITU&s=10" group-title="International", Al Arabiya
