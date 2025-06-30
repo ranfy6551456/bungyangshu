@@ -23,12 +23,15 @@ http://38.96.178.201/live/EkhonTV/index.m3u8
 #EXTINF:-10  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvCrlb7xmKGKrsrDbJSJ8hGTlvEidzrp29PJz60DT7KjVt4QzG2Yzd7I&s=10" group-title="News", Nexus Television
 
 #EXTINF:-1  tvg-logo="https://pngtom.com/files/preview/960x960/31702992665jbnpnaxmv6hhe4vj1c2kxz9ufo4l46lfvxil0v8p6qmfcmoijvvsvexesdfuwhjifalwi4ffwrxwzezn8hxyosvuqs9csm48zqr4.png" group-title="Entertainment", ATN Bangla
+http://38.96.178.201/live/ATNBangla/index.m3u8
 
 
 #EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ZfntgW_pn1lop8RBYX4glU6m6DSIQNyeruGHX9ZxWAQ5_EzK0KD7hOY&s=10" group-title="Entertainment", Channel i
+http://38.96.178.201/live/ChannelI/index.m3u8
 
 
 #EXTINF:-3  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EqyF03y2yDUaUBNwvC7iC3cUokAxx-ATVAKhl8QYNSSyeJRp74iwhCc&s=10" group-title="Entertainment", NTV
+http://38.96.178.201/live/NTV/index.m3u8
 
 
 #EXTINF:-4  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolXbGZ1z56edcDd0D5eXhaTlMzvvicKBmb4jVp-Da2S8HtmUNroJVVZY&s=10" group-title="Entertainment", RTV
@@ -38,6 +41,7 @@ http://38.96.178.201/live/EkhonTV/index.m3u8
 
 
 #EXTINF:-6  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU01ZhE1AnebwngwNxiW2pnb4hDZTTNauPb5b9D0sd9Yp--oi_cL0PiUFN&s=10" group-title="Entertainment", Banglavision
+http://38.96.178.201/live/BanglaVision/index.m3u8
 
 
 #EXTINF:-7  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBmBz6vF97dd9WqmukfIcL_4uue_tDgmFfzX6sIehZYbmm7kiL8rTo8BA&s=10" group-title="Entertainment", Boishakhi TV
@@ -56,18 +60,21 @@ http://38.96.178.201/live/EkhonTV/index.m3u8
 
 
 #EXTINF:-12  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-NeiuXwrF1ejDZmFWllQP5ulfOk1KkWUGPguottMJC0r-gUL7tQAgfE&s=10" group-title="Entertainment", Channel 9
+http://38.96.178.201/live/Channel9/index.m3u8
 
 
 #EXTINF:-13  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxDeIjIyPDQOSZS8QJ5yrAisUm6zAA_uj99cHjtisR6CzVD0xkzMCu-c&s=10" group-title="Entertainment", Asian TV
 
 
 #EXTINF:-14  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc7_zyy196IhovanHOt_xBoTjElkUmoEWRtQlrFmaKSoZBeuzFlJ1fK2g&s=10" group-title="Entertainment", SA TV
+http://38.96.178.201/live/SATV/index.m3u8
 
 
 #EXTINF:-15  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNviiaSKpw94vK4Np8TzzM9gmLxMM7OulRX-Tcal0YhbNAUkO8tGb2-SU&s=10" group-title="Entertainment", Deepto TV
 
 
 #EXTINF:-16  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZRlPvTfuMvTFvY1iQ4CJbm7-i8CdGK2teFS6ZnCcqlYwQSaG7Q9ZSAs1&s=10" group-title="Entertainment", Bangla TV
+http://38.96.178.201/live/BanglaTV/index.m3u8
 
 
 #EXTINF:-17  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ztTzrUwoQEb2Mcq5iOYf61cchkPvgdnZlgYqEKHRF0Cphsi9umA8weis&s=10" group-title="Entertainment", Nagorik TV
@@ -80,6 +87,7 @@ http://38.96.178.201/live/EkhonTV/index.m3u8
 
 
 #EXTINF:-20 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83es3p2toG6oo_JuCaUqeHOoZIRjoYVkMRcTPxZKwdUnyzGDfFzsoAHDM&s=10" group-title="Entertainment", Channel S
+http://38.96.178.201/live/ChannelS/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinpdJJk-WWZgvJxdZYnJzv1YmTw_6Ai_gwn1viFCvkERWfdTmlar-DdqUY6_28P1pdtzBUnoJt_cwaO13aR52Vp2hB90uceQl7AADQWQLtfjUY5MTtV8xQErBQ3nIBqXDQIxvkj_Prdw6yI30-7fEMj1gJ3TYa2ndB5rCUrrXibcS1fX7Ddojx1ScOUNo/s1600/1000022776.png" group-title="Sports", T Sports
 http://38.96.178.201/live/TSports/index.m3u8
