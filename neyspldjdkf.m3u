@@ -1,5 +1,3 @@
-
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="International", CNN International
 
 
@@ -21,10 +19,10 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
 
-#EXTINF:-7  tvg-logo="https://images.contentstack.io/v3/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="International", Sky News International
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc103ow4ej)/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020c13c3690d99ce5dbe3ea50725afb:c432e72a86293d935174b1144290bde7
+#EXTINF:-7  tvg-logo="https://images.contentstack.io/v3/assets/blt99ae31f3e053a966/blt9bbbb4cdcd684a59/60b75691960d552520f73625/PROFILE_PIC_800x800.png" group-title="International", Sky News International
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc103ow4ej)/master.mpd
 
 
 #EXTINF:-8  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28jqV9FkDD91fPXsGff39mtaGRfycYuBVcqMX4ivJjJXiyT7EGfy3sw&s=10" group-title="International", TRT World
