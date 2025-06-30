@@ -82,29 +82,26 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb0
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10" group-title="News", Jamuna Television
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10" group-title="Bangladesh", Jamuna Television
 http://38.96.178.201/live/JamunaTV/index.m3u8
 
-#EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwULgTyxl7QPxbuZwFdzn7OJLcUZPBMdAwAYbOa8tCehX2ex77oCaOGA&s=10" group-title="News", Somoy TV
+#EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwULgTyxl7QPxbuZwFdzn7OJLcUZPBMdAwAYbOa8tCehX2ex77oCaOGA&s=10" group-title="Bangladesh", Somoy TV
 
-#EXTINF:-3  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlw9lmJMElzn750jn0hJYlJ38FKVnl1Yn1MaBdcPIyMO1JwWlBYrKw2A&s=10" group-title="News", Independent Television
+#EXTINF:-3  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlw9lmJMElzn750jn0hJYlJ38FKVnl1Yn1MaBdcPIyMO1JwWlBYrKw2A&s=10" group-title="Bangladesh", Independent Television
 http://38.96.178.201/live/Independent/index.m3u8
 
-#EXTINF:-4  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1gSKboIgklxxoVwDQ9NxRaNaxSwP5qpRWfcmKRUEDdsDyBCOlRWpg1BH&s=10" group-title="News", ATN News
+#EXTINF:-4  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1gSKboIgklxxoVwDQ9NxRaNaxSwP5qpRWfcmKRUEDdsDyBCOlRWpg1BH&s=10" group-title="Bangladesh", ATN News
 http://38.96.178.201/live/ATNNews/index.m3u8
 
-#EXTINF:-5  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1200px-Logo_of_Channel_24_%28Bangladesh%29.svg.png" group-title="News", Channel 24
+#EXTINF:-5  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1200px-Logo_of_Channel_24_%28Bangladesh%29.svg.png" group-title="Bangladesh", Channel 24
 
-#EXTINF:-6  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XtqCbOPMe0T88G01efcWk2lPDPjUobeesyy5gE8D_6bRm0JKbP2ZJEY&s=10" group-title="News", Ekattor TV
+#EXTINF:-6  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XtqCbOPMe0T88G01efcWk2lPDPjUobeesyy5gE8D_6bRm0JKbP2ZJEY&s=10" group-title="Bangladesh", Ekattor TV
 
-#EXTINF:-7  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzlONl21nkrYm8ShUYMiN_rrMJaJh8gV1-k2_S_HYSfaeHpshK8RFlENDU&s=10" group-title="News", News24
+#EXTINF:-7  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzlONl21nkrYm8ShUYMiN_rrMJaJh8gV1-k2_S_HYSfaeHpshK8RFlENDU&s=10" group-title="Bangladesh", News24
 
-#EXTINF:-8  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDPoXd3EEl-ffhQJYNTLfovtWhtG_rEpn0sMbVain2FQFW5ST7PRvXdGs&s=10" group-title="News", DBC News
+#EXTINF:-8  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDPoXd3EEl-ffhQJYNTLfovtWhtG_rEpn0sMbVain2FQFW5ST7PRvXdGs&s=10" group-title="Bangladesh", DBC News
 
-#EXTINF:-9  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvGUsZOUPcCVuPqy8ioMkRwQTRR_Qf1igpaQ57uXWorJuiioj5FBkAjBg&s=10" group-title="News", Ekhon TV
+#EXTINF:-9  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvGUsZOUPcCVuPqy8ioMkRwQTRR_Qf1igpaQ57uXWorJuiioj5FBkAjBg&s=10" group-title="Bangladesh", Ekhon TV
 http://38.96.178.201/live/EkhonTV/index.m3u8
 
-#EXTINF:-10  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvCrlb7xmKGKrsrDbJSJ8hGTlvEidzrp29PJz60DT7KjVt4QzG2Yzd7I&s=10" group-title="News", Nexus Television
-
-#EXTINF:-1  tvg-logo="https://pngtom.com/files/preview/960x960/31702992665jbnpnaxmv6hhe4vj1c2kxz9ufo4l46lfvxil0v8p6qmfcmoijvvsvexesdfuwhjifalwi4ffwrxwzezn8hxyosvuqs9csm48zqr4.png" group-title="Entertainment", ATN Bangla
-http://38.96.178.201/live/ATNBangla/index.m3u8
+#EXTINF:-10  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvCrlb7xmKGKrsrDbJSJ8hGTlvEidzrp29PJz60DT7KjVt4QzG2Yzd7I&s=10" group-title="Bangladesh", Nexus Television
