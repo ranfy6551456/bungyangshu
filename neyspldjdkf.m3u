@@ -1,4 +1,7 @@
+
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="International", CNN International
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/673248f9030a2c0008033af8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 
 #EXTINF:-2  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/2048px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="International", BBC World News
@@ -10,12 +13,14 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
 #EXTINF:-4  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61F8AcwAx3AhRe8xJhRVH1c1Vaa6o5p9YzJkBXHLOQHZoyL9E6dULzUaT&s=10" group-title="International", DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 
 #EXTINF:-5  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKV4E5y5F1uZkCUCj4mpOvlCqCAnLoEG37F4bKi2cU15mvzxRPrWNHO-s&s=10" group-title="International", France 24
 
 
 #EXTINF:-6  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="International", RT (Russia Today)
+http://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 
 
@@ -29,16 +34,28 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc103ow4ej)/m
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ce0d00cf2a4eb71e1f70f06e2b7d3d4:ceb983f224593c2fbc75a75a6ec92c06
 #EXTINF:-9  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="International", NHK World-Japan
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/NHKHD/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3c97fa71d06d0cd4049185c473ec7dd:24da4b34a7ae12920a95ebdccd883e54
 #EXTINF:-10  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEQfX8fWcpZ2lyWTNZ_u-1F3qpLkItIxiGFQ2quwepf_n9wQJCBBkZzqI&s=10" group-title="International", Bloomberg Television
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ELFINANCIEROHD/default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2351831e4519c8a7204669b56d276258:c01f5966265cfb1fce0ec0ad9a317913
 #EXTINF:-11  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2DqOEQKW0vh57seSCWQPQ2_hFTeegjBNDbQ&s" group-title="International", CNBC
+https://ac-009.live.p7s1video.net/d2e237d7/t_009/cnbc/cenc-default.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa611985e0c890fdf50d5c6ed88ad0c0:61dc9d01e315bf46ee43bc9fe882ebd8
 #EXTINF:-12  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="International", Fox News
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/FOXNEWSHD/default.mpd
 
 
 #EXTINF:-13  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/2048px-LOGO_i24NEWS.png" group-title="International", i24NEWS
@@ -48,6 +65,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 
 #EXTINF:-15  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="International", Euronews
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 
 #EXTINF:-16  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Press_TV_logo.svg" group-title="International", Press TV
