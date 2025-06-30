@@ -89,10 +89,7 @@ http://38.96.178.201/live/TSports/index.m3u8
 http://38.96.178.201/live/GaziTV/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNgtSPd1tDEKCWFzOkkavM2zjEgJttKsu0J4y_DBzfa1fYvYPTFyWilmwS&s=10" group-title="Kids", Maasranga Television
-http://38.96.178.201/live/GaziTV/index.m3u8
 
 
 #EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWbm0mh0UEB3zMCP_5sHUTcWTf1tdXhAOGbZfenAZKCcGnLuhwF4gd-Uw&s=10" group-title="Kids", Duronto TV
-http://38.96.178.201/live/GaziTV/index.m3u8
-
 
