@@ -33,3 +33,60 @@ http://38.96.178.201/live/RuposhiBangla/index.m3u8
 
 #EXTINF:-8  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSgAr7xYAwX_Fc1CcrfzfFSDwRTbi8FD11fzaEfiA6DMkQ0AZ1dHsPWkM&s=10" group-title="Entertainment", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://static.vidgyor.com/player/account/abp/img/ABP-Ananda.png" group-title="News", ABP Ananda
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+
+
+#EXTINF:-2 tvg-id="7" tvg-chno="679" tvg-name="24-ghanta" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uperuc.png" group-title="News", 24 Ghanta
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24ghanta/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f386957b-dfda-4779-8dd8-f525e37d92ab/main.m3u8?hdnts=st%3D1751346105~exp%3D1751367705~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zee24ghanta%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Ff386957b-dfda-4779-8dd8-f525e37d92ab%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_7_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_7_-1~hmac%3D949b08000113ebe025bda19f236d19da7021bc393bf24004242693e6d77787f3
+
+
+
+#EXTINF:-3  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7g_gL-WZ3-gfQHowWfy_-0hiQjVHSqNV5ZtIKZCFl47ynLOeZc0rh5nY&s=10" group-title="News", Kolkata TV
+
+
+
+#EXTINF:-4 tvg-id="24" tvg-chno="678" tvg-name="republic-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awqywf.png" group-title="News", Republic Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/main.m3u8?hdnts=st%3D1751346104~exp%3D1751367704~acl%3D%21%2A%2Fptnr-yuppt%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-613605%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_24_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_24_-1~hmac%3D2f8fd1157595389081a6025b824d088f9ad46a0bdde54148a18787b434f06fde
+
+
+
+#EXTINF:-5  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHnPCf1d_0HTqPD-7kRzcYCtP15DWr6rKGg&s" group-title="News", TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+
+#EXTINF:-7 tvg-id="116" tvg-chno="683" tvg-name="calcutta-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png" group-title="News", Calcutta News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppftalive.akamaized.net/080823/calcuttanews/playlist.m3u8?hdnts=st%3D1751346107~exp%3D1751367707~acl%3D%21%2A%2F080823%2Fcalcuttanews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_116_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_116_-1~hmac%3D153deb9c9f041d18d92bc4484896f37af2ac96b88462a6ebab28f8ad77cb56db
+
+
+#EXTINF:-8  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/News_Time_new_logo.png" group-title="News", News Time Bangla
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgQenJv5h4YRlocNINZxQDLrOLnJvCG8XzA8BkKjec1OMmK9MpflixSTJ&s=10" group-title="Music", Sangeet Bangla
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+
+
+#EXTINF:-2  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nBxQ9GXXSDJJeDePlySJbW9-_GIcxkZHhtkl0_uV-8xw=s900-c-k-c0x00ffffff-no-rj" group-title="Music", Dhoom Music
+http://38.96.178.201/live/Dhoom/index.m3u8
