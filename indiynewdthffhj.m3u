@@ -31,6 +31,9 @@ https://livegeoroueu.akamaized.net/120723/smil:ddindiahd.smil/playlist.m3u8?hdnt
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
+#EXTINF:-7  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefa5eWY600S7-2RKYDLy-RyjY29zcHXevm8umQsPa5dLc3-TKjZqFThG1&s=10" group-title="News", CNN-News18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+
 #EXTINF:-1 tvg-id="213" tvg-chno="208" tvg-name="mirror-now" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png" group-title="News", Mirror Now
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -109,11 +112,9 @@ https://vg-timesgroup.akamaized.net/ptnr-yupptv/title-TimesnowNavbharat/v1/maste
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://abplive.vgcdn.net/ptnr-yupptv/title-ABP_News_yupp/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1e0dff06-24fb-4d91-9d57-fb6e918834e2/master.m3u8?hdnts=st%3D1751346088~exp%3D1751367688~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-ABP_News_yupp%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F1e0dff06-24fb-4d91-9d57-fb6e918834e2%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_225_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_225_-1~hmac%3De47ab4e1ea07ee30d3c8f7d015c34fb6789f165ed76fab74c34942398d8fbb9d
 
-#EXTINF:-1 tvg-id="13" tvg-chno="8" tvg-name="zee-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png" group-title="News", Zee News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8?hdnts=st%3D1751346090~exp%3D1751367690~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeenews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8744f9fb-d696-4204-9795-5215ad930c39%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_13_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_13_-1~hmac%3D2908146398e3e9292aae27c4eadaf2d3350849d996795d4d3ecd33d6a4381fe0
+#EXTINF:-8  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZbDHW6kQtA0Qzh-F73-I07sIJDu0ftSYNSxQaIxlwt4U70_HNFkAeAUk&s=10" group-title="News", Zee News
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8|cookie=hdntl=exp=1751390484~acl=%2f*~data=hdntl~hmac=a493e7c14b8ca63b439ea22d320ae28e0c254b446525c332f658415cc93d28ee&Referer=https://www.zee5.com/&Origin=https://www.zee5.com&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+
 
 #EXTINF:-1 tvg-id="2" tvg-chno="10" tvg-name="ndtv-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png" group-title="News", NDTV INDIA
 #KODIPROP:inputstream=inputstream.adaptive
@@ -311,7 +312,7 @@ https://yuppftalive.akamaized.net/080823/jaimaharashtra/playlist.m3u8?hdnts=st%3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://abplive.vgcdn.net/ptnr-yupptv/title-Ananda/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed99a686-d5e1-42d8-ba3c-719c604586c8/master.m3u8?hdnts=st%3D1751346103~exp%3D1751367703~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Ananda%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fed99a686-d5e1-42d8-ba3c-719c604586c8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_226_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_226_-1~hmac%3D6a0aa1d37f681dc65dafc137485776a3cdaa605ffdc9260e577a282ab9cad5a9
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 
 #EXTINF:-1 tvg-id="24" tvg-chno="678" tvg-name="republic-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awqywf.png" group-title="News", Republic Bangla
 #KODIPROP:inputstream=inputstream.adaptive
