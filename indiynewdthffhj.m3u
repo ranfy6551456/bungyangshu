@@ -25,7 +25,7 @@ https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://livegeoroueu.akamaized.net/120723/smil:ddindiahd.smil/playlist.m3u8?hdnts=st%3D1751346077~exp%3D1751367677~acl%3D%21%2A%2F120723%2Fsmil%3Addindiahd.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_194_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_194_-1~hmac%3D663611e44137ccb4b8f83944a4489dc371c5103d74472366615df7c9d2eb3293
 
-#EXTINF:-1 tvg-id="1" tvg-chno="207" tvg-name="ndtv-24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png" group-title="News", NDTV 24x7
+#EXTINF:-1 tvg-id="1" tvg-chno="207" tvg-name="ndtv-24x7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-9VG0EWxWQe-zZae4FA11oG2_NUbs2sOikUt00xYfHJzkxiyZR8C7MNK&s=10" group-title="News", NDTV 24x7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
@@ -94,7 +94,7 @@ https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vg-tv9yupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-234604/main.m3u8?hdnts=st%3D1751346087~exp%3D1751367687~acl%3D%21%2A%2Fptnr-yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fvglive-sk-234604%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_34_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_34_-1~hmac%3Df296c8949be80a22902cfc0588afa0871d1988c264f141912ec1826925428c25
 
-#EXTINF:-1 tvg-id="231" tvg-chno="5" tvg-name="india-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/india-tv.png" group-title="News", India TV
+#EXTINF:-1 tvg-id="231" tvg-chno="5" tvg-name="india-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRb5bEoNipxOdzU50WfBJsOoPKZqxaiRNaQRgYtwPESv3-N8CqlUnxvRg&s=10" group-title="News", India TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
@@ -116,7 +116,7 @@ https://abplive.vgcdn.net/ptnr-yupptv/title-ABP_News_yupp/v1/master/611d79b11b77
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8|cookie=hdntl=exp=1751390484~acl=%2f*~data=hdntl~hmac=a493e7c14b8ca63b439ea22d320ae28e0c254b446525c332f658415cc93d28ee&Referer=https://www.zee5.com/&Origin=https://www.zee5.com&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 
-#EXTINF:-1 tvg-id="2" tvg-chno="10" tvg-name="ndtv-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png" group-title="News", NDTV INDIA
+#EXTINF:-1 tvg-id="2" tvg-chno="10" tvg-name="ndtv-india" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-9VG0EWxWQe-zZae4FA11oG2_NUbs2sOikUt00xYfHJzkxiyZR8C7MNK&s=10" group-title="News", NDTV INDIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
