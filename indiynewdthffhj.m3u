@@ -572,4 +572,54 @@ https://yuppftalive.akamaized.net/080823/nandighoshatv/playlist.m3u8?hdnts=st%3D
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yuppftalive.akamaized.net/080823/kalingatv/playlist.m3u8?hdnts=st%3D1751346126~exp%3D1751367726~acl%3D%21%2A%2F080823%2Fkalingatv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_187_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.79.227_yuppfast_2_channel_187_-1~hmac%3De4ea1ace003199056a524ce11bc4a73ed697f95e586a44037a22b941fdd3f254
 
-#
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLq2s7DSocjLDDmXNL7_2s0o-L7D_Wko2lEzaVIjuB2SZINvDztBBd2fE&s=10" group-title="Entertainment", Star Jalsha
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+
+
+#EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7L658JbM9cPfkoZyHqsZ6Xb8h10XbRYvX8i4zYXyMZBIRXsx0qMcuSsp&s=10" group-title="Entertainment", Zee Bangla
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8|cookie=hdntl=exp=1751390484~acl=%2f*~data=hdntl~hmac=a493e7c14b8ca63b439ea22d320ae28e0c254b446525c332f658415cc93d28ee&Referer=https://www.zee5.com/&Origin=https://www.zee5.com&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+
+
+#EXTINF:-3  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Colors_Bangla_2021.jpg/revision/latest?cb=20210831124610" group-title="Entertainment", Colors Bangla
+https://fifabangladesh2-xyz-ekkj.spidy.online/VHOD/NEW/goo.php?id=Colors_Bangla_HD_voot_MOB
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
+#EXTINF:-4  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG6JmL9gfHGgrO8SypN8b2PYuxiO48ikHt7GvzyPGwjPr8bj49Dgll3o4&s=10" group-title="Entertainment", Sun Bangla
+https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+
+
+
+#EXTINF:-5  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Entertainment", Aakash Aath
+http://38.96.178.201/live/AkashAath/index.m3u8
+
+
+#EXTINF:-6  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKo8yWSKhEPSvQJtwsQRDeOD9_gXHlFe2-yusZme9MmjNuVTNQZhk_6tnw&s=10" group-title="Entertainment", Sony AATH
+https://fifabangladesh.site/API/SONYBD/play.php?id=2011641/SonyAathSD
+
+
+#EXTINF:-7  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Ruposhi_Bangla_old.jpeg/revision/latest?cb=20191218154246" group-title="Entertainment", Ruposhi Bangla
+http://38.96.178.201/live/RuposhiBangla/index.m3u8
+
+
+#EXTINF:-8  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSgAr7xYAwX_Fc1CcrfzfFSDwRTbi8FD11fzaEfiA6DMkQ0AZ1dHsPWkM&s=10" group-title="Entertainment", Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+
+
+
+
+
+
+
