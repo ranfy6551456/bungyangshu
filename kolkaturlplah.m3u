@@ -4,8 +4,10 @@
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 
-#EXTINF:-2  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7L658JbM9cPfkoZyHqsZ6Xb8h10XbRYvX8i4zYXyMZBIRXsx0qMcuSsp&s=10" group-title="Entertainment", Zee Bangla
-https://imranapk.site/TG@RANAPKX73/OPPLX/play.php?id=245893|User-Agent=Mozila
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+#EXTINF:-2 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Regional", Zee Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
 
 #EXTINF:-3  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Colors_Bangla_2021.jpg/revision/latest?cb=20210831124610" group-title="Entertainment", Colors Bangla
